@@ -10,13 +10,12 @@ public class Actividad4 {
 	        //inicializar un alumno con tres asignaturas
 	        Alumno alumno = new Alumno(asignatura1, asignatura2, asignatura3);
 
-	        //inicializa un profesor 
+	        // Crear un Profesor para poner calificaciones al Alumno
 	        Profesor profesor = new Profesor();
 	        profesor.ponerNotas(alumno);
 
-	        
+	        // Mostrar por pantalla la media del Alumno
 	        double media = profesor.calcularMedia(alumno);
-	        System.out.println(asignatura1);
 	        System.out.println("La media del alumno es: " + media);
 	    }
 }

@@ -14,9 +14,7 @@ public class Actividad4 {
 	        Profesor profesor = new Profesor();
 	        profesor.ponerNotas(alumno);
 
-	        
 	        double media = profesor.calcularMedia(alumno);
-	        System.out.println(asignatura1);
 	        System.out.println("La media del alumno es: " + media);
 	    }
 }

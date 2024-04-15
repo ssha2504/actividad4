@@ -23,6 +23,9 @@ class Profesor {
 	        return random.nextDouble() * 10; // calificación aleatoria entre 0 y 10
 	    }
 
-
+		@Override
+		public String toString() {
+			return "Profesor [random=" + random + "]";
+		}
 	    
 }

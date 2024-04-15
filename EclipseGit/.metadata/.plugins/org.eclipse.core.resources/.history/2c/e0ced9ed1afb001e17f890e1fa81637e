@@ -22,7 +22,5 @@ class Profesor {
 	    private double generarCalificacionAleatoria() {
 	        return random.nextDouble() * 10; // calificación aleatoria entre 0 y 10
 	    }
-
-
 	    
 }

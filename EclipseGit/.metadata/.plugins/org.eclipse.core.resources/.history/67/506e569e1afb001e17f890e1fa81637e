@@ -19,6 +19,7 @@ public class Actividad4 {
 	        System.out.println(asignatura1);
 	        System.out.println(asignatura2);
 	        System.out.println(asignatura3);
+	        System.out.println(alumno);
 	        System.out.println("La media del alumno es: " + media);
 	    }
 }

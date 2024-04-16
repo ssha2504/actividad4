@@ -22,7 +22,7 @@ public class Asignatura {
 
 		@Override
 		public String toString() {
-			return String.format("%.2f", calificacion)  + " puntos";
+			return calificacion ;
 		}
 	    
 }

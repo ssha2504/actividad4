@@ -1,0 +1,4 @@
+Asignatura [identificador=1, calificacion=8.496550778181666]
+Asignatura [identificador=2, calificacion=7.381527303335293]
+Asignatura [identificador=3, calificacion=8.244765554236764]
+La media del alumno es: 8.040947878584575

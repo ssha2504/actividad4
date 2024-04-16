@@ -21,8 +21,7 @@ public class Actividad4 {
 	        System.out.println("La nota de ingles del alumno es: " +  Informatica);
 	        System.out.println("La media del alumno es: " + String.format("%.2f", media));
 	        
-	        Alumno Shangfeng = new Alumno(Mate, Lengua, Informatica,"shangfeng",2003,"Y028274");
-	        System.out.println(Shangfeng);
+	        Alumno Shangfeng = new Alumno(Mate, Lengua, Informatica,);
 	 }
 	 
 }
